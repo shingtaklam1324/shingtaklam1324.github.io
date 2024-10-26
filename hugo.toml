@@ -39,7 +39,7 @@ breadcrumbs = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+url = "https://www.linkedin.com/in/shing-tak-lam-3237bb1b7/"
 
 # [[params.social]]
 # name = "medium"
@@ -47,7 +47,11 @@ url = "https://www.linkedin.com/in/user/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/shingtaklam1324"
+
+[[params.social]]
+name = "email"
+url = "mailto:stl45@cantab.ac.uk"
 
 # Main menu pages
 [[params.menu]]
