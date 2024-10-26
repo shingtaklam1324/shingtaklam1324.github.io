@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Shing Tak Lam</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Shing Tak Lam</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a first year PhD student at the University of Glasgow, supervised by &lt;a href=&#34;https://www.maths.gla.ac.uk/~rdervan/&#34;&gt;Ruadhaí Dervan&lt;/a&gt;. I am also an aligned student&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; at the &lt;a href=&#34;https://www.agq-cdt.org/&#34;&gt;Algebra, Geometry and Quantum Fields CDT&lt;/a&gt;. My research interests are in the interactions between algebraic geometry, differential geometry and geometric analysis. I am currently thinking about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Kobayashi%E2%80%93Hitchin_correspondence&#34;&gt;Hitchin-Kobayashi correspondence&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I did my BA and MMath at the University of Cambridge, where I wrote my Part III essay titled &lt;em&gt;Quantum Cohomology and the Seidel representation&lt;/em&gt;, supervised by &lt;a href=&#34;https://sites.google.com/view/jacksmithmathematics&#34;&gt;Jack Smith&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:1313/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/</guid>
+      <description>&lt;p&gt;A list of courses which I have taken, or are currently taking. A * denotes a course which I did not take to exams.&lt;/p&gt;&#xA;&lt;h2 id=&#34;university-of-cambridge&#34;&gt;University of Cambridge&lt;/h2&gt;&#xA;&lt;h3 id=&#34;first-year-part-ia&#34;&gt;First year (Part IA)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Numbers and Sets&lt;/li&gt;&#xA;&lt;li&gt;Groups&lt;/li&gt;&#xA;&lt;li&gt;Vectors and Matrices&lt;/li&gt;&#xA;&lt;li&gt;Differential Equations&lt;/li&gt;&#xA;&lt;li&gt;Analysis I&lt;/li&gt;&#xA;&lt;li&gt;Probability&lt;/li&gt;&#xA;&lt;li&gt;Vector Calculus&lt;/li&gt;&#xA;&lt;li&gt;Dynamics and Relativity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;second-year-part-ib&#34;&gt;Second year (Part IB)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Analysis and Topology&lt;/li&gt;&#xA;&lt;li&gt;Linear Algebra&lt;/li&gt;&#xA;&lt;li&gt;Markov Chains&lt;/li&gt;&#xA;&lt;li&gt;Methods*&lt;/li&gt;&#xA;&lt;li&gt;Quantum Mechanics*&lt;/li&gt;&#xA;&lt;li&gt;Geometry&lt;/li&gt;&#xA;&lt;li&gt;Groups, Rings and Modules&lt;/li&gt;&#xA;&lt;li&gt;Complex Analysis&lt;/li&gt;&#xA;&lt;li&gt;Numerical Analysis&lt;/li&gt;&#xA;&lt;li&gt;Statistics&lt;/li&gt;&#xA;&lt;li&gt;Optimisation*&lt;/li&gt;&#xA;&lt;li&gt;Variational Principles&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;third-year-part-ii&#34;&gt;Third year (Part II)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Algebraic Topology&lt;/li&gt;&#xA;&lt;li&gt;Galois Theory&lt;/li&gt;&#xA;&lt;li&gt;Linear Analysis&lt;/li&gt;&#xA;&lt;li&gt;Number Theory*&lt;/li&gt;&#xA;&lt;li&gt;Probability and Measure&lt;/li&gt;&#xA;&lt;li&gt;Representation Theory*&lt;/li&gt;&#xA;&lt;li&gt;Algebraic Geometry&lt;/li&gt;&#xA;&lt;li&gt;Analysis of Functions&lt;/li&gt;&#xA;&lt;li&gt;Differential Geometry&lt;/li&gt;&#xA;&lt;li&gt;Number Fields&lt;/li&gt;&#xA;&lt;li&gt;Riemann Surfaces&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;fourth-year-part-iii&#34;&gt;Fourth year (Part III)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Algebraic Geometry*&lt;/li&gt;&#xA;&lt;li&gt;Algebraic Topology&lt;/li&gt;&#xA;&lt;li&gt;Analysis of PDEs*&lt;/li&gt;&#xA;&lt;li&gt;Commutative Algebra&lt;/li&gt;&#xA;&lt;li&gt;Differential Geometry&lt;/li&gt;&#xA;&lt;li&gt;Lie Algebras&lt;/li&gt;&#xA;&lt;li&gt;Abelian Varieties*&lt;/li&gt;&#xA;&lt;li&gt;Elliptic PDEs*&lt;/li&gt;&#xA;&lt;li&gt;Geometric Group Theory*&lt;/li&gt;&#xA;&lt;li&gt;Group Cohomology*&lt;/li&gt;&#xA;&lt;li&gt;Symplectic Topology&lt;/li&gt;&#xA;&lt;li&gt;Toric Varieties&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;My Part III Essay was titled &lt;em&gt;Quantum Cohomology and the Seidel Representation&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
