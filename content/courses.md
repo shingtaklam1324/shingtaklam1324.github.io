@@ -17,6 +17,8 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 * Vector Calculus
 * Dynamics and Relativity
 
+[Summary Notes](/summary-notes)
+
 ### Second year (Part IB)
 
 * Analysis and Topology
@@ -32,6 +34,8 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 * Optimisation*
 * Variational Principles
 
+[Summary notes](/ib-summary)
+
 ### Third year (Part II)
 
 * Algebraic Topology
@@ -45,6 +49,8 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 * Differential Geometry
 * Number Fields
 * Riemann Surfaces
+
+[Summary notes](/ii-summary)
 
 ### Fourth year (Part III)
 
@@ -60,6 +66,8 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 * Group Cohomology*
 * Symplectic Topology
 * Toric Varieties
+
+[Notes](part-iii-notes)
 
 My Part III Essay was titled _Quantum Cohomology and the Seidel Representation_.
 
