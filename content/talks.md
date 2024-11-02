@@ -11,4 +11,4 @@ A list of talks which I have given:
 * Hyperkähler structures on nilpotent $\mathrm{SL}(n, \mathbb{C})$ orbits - Summer research festival
 * Gröbner bases - Student seminar
 * The topology of negatively curved manifolds - Student seminar
-* On generalised hardness of approximation in optimisation and data science
+* On generalised hardness of approximation in optimisation and data science - Summer research festival
