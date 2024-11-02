@@ -69,7 +69,7 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 
 [Notes](https://shingtaklam1324.github.io/part-iii-notes)
 
-My Part III Essay was titled _Quantum Cohomology and the Seidel Representation_.
+My Part III Essay was titled _Quantum Cohomology and the Seidel Representation_. See more [here](/essay)
 
 ## University of Glasgow/Algebra Geometry and Quantum Fields CDT
 

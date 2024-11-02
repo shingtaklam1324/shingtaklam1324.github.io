@@ -70,6 +70,18 @@ url = "/about"
 name = "courses"
 url = "/courses"
 
+[[params.menu]]
+name = "essay"
+url = "/essay"
+
+[[params.menu]]
+name = "talks"
+url = "/talks"
+
+[[params.menu]]
+name = "travels"
+url = "/travels"
+
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
