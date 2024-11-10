@@ -58,10 +58,6 @@ url = "mailto:stl45@cantab.ac.uk"
 name = "home"
 url = "/"
 
-# [[params.menu]]
-# name = "posts"
-# url = "/posts"
-
 [[params.menu]]
 name = "about"
 url = "/about"
@@ -81,6 +77,10 @@ url = "/talks"
 [[params.menu]]
 name = "travels"
 url = "/travels"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
 
 # Syntax highligth on code blocks
 [markup]

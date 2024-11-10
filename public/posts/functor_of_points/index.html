@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en-gb"
+  dir="ltr">
+
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+
+
+<link rel="icon" type="image/ico" href="http://localhost:1313//favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313//favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313//favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="http://localhost:1313//android-chrome-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313//apple-touch-icon.png">
+
+<meta name="description" content=""/>
+
+<title>
+    
+    Functor of points | Shing Tak Lam
+    
+</title>
+
+<link rel="canonical" href="http://localhost:1313/posts/functor_of_points/"/>
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/combined.min.a6824bbee0d90d5af09fed9b70395ce7076b615e315037455d903314e96ef91b.css" media="all">
+
+
+
+
+
+  </head>
+
+  
+
+  
+  
+  
+
+  <body class="auto">
+
+    <div class="content">
+      <header>
+        
+
+<div class="header">
+
+    
+
+    <h1 class="header-title">Shing Tak Lam</h1>
+
+    <div class="flex">
+        
+
+        
+        
+      
+        <p class="small ">
+            <a href="/" >
+                /home
+            </a>
+        </p>
+        
+      
+        <p class="small ">
+            <a href="/about" >
+                /about
+            </a>
+        </p>
+        
+      
+        <p class="small ">
+            <a href="/courses" >
+                /courses
+            </a>
+        </p>
+        
+      
+        <p class="small ">
+            <a href="/essay" >
+                /essay
+            </a>
+        </p>
+        
+      
+        <p class="small ">
+            <a href="/talks" >
+                /talks
+            </a>
+        </p>
+        
+      
+        <p class="small ">
+            <a href="/travels" >
+                /travels
+            </a>
+        </p>
+        
+      
+        <p class="small ">
+            <a href="/posts" >
+                /posts
+            </a>
+        </p>
+        
+        
+    </div>
+
+    
+
+</div>
+
+      </header>
+
+      <main class="main">
+        
+
+
+
+
+
+<div class="breadcrumbs">
+    
+    <a href="/">Home</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a href="/posts/">Posts</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a class="breadcrumbs-current" href="/posts/functor_of_points/">Functor of points</a>
+</div>
+
+
+
+<div >
+
+  <div class="single-intro-container">
+
+    
+
+    <h1 class="single-title">Functor of points</h1>
+    
+
+    
+
+    <p class="single-readtime">
+      
+      
+      
+      <time datetime="2024-11-10T00:00:00&#43;00:00">November 10, 2024</time>
+      
+
+      
+    </p>
+
+  </div>
+
+  
+
+  
+
+  
+
+  
+
+  <div class="single-content">
+    <p>One idea which has been coming up a lot in the <a href="https://smstc.ac.uk/">SMSTC</a> course on Algebraic Geometry, lectured by Clark Barwick, has been the idea of the functor of points. Here, we&rsquo;ll try and motivate that definition with some examples.</p>
+<p>Throughout, we work over an algebraically field $k$, and so schemes and morphisms are relative to $k$.</p>
+<p>Let $X$ be a scheme. Associated to this, we have a functor $h_X : \mathrm{Sch}/k^{\mathrm{op}} \to \mathrm{Sets}$, given by
+$$h_X(Y) = \mathrm{Mor}(Y, X)$$
+and this is called the <em>functor of points</em>.</p>
+<p>If $R$ is a $k$-algebra, then we write $X(R) = h_X(\mathrm{Spec}(R))$, and these are called the $R$-valued points of $X$.</p>
+<h3 id="group-schemes">Group schemes</h3>
+<p>A <em>group scheme</em> $G$ is a scheme $G$, along with morphisms $m : G \times G \to G$, $i : G \to G$ and $e : \bullet \to G$, satisfying diagrams which looks like the group axioms. More concretely, if $R$ is any $k$-algebra, then $G(R)$ is a group.</p>
+<p>Why do we want to think about things in this way? One reason is that we can now define <em>the</em> multiplicative group, and <em>the</em> additive group, and so on, and work on these things uniformly. For example, we can then define $\mathrm{GL}_n$ as a group scheme, where $\mathrm{GL}_n(R)$ is the space of invertible $(n \times n)$-matrices with entries in $R$. This can be seen as formalising the intuitive notion of &ldquo;everything we do here is an algebraic operation, so everything should work&rdquo;.</p>
+<h3 id="tangent-space">Tangent space</h3>
+<p>We can think of $\mathrm{Spec}(k[\epsilon]/\epsilon^2)$ as a point with a preferred direction, and so points in $X(k[\epsilon]/\epsilon^2)$ can be considered as tangent vectors on $X$.</p>
+<h3 id="vector-bundles">Vector bundles</h3>
+<p>Let $\mathbb{CP}^n$ denote complex projective $n$-space. That is, the space of lines in $\mathbb C^{n+1}$ through the origin. This has a tautological line bundle
+$$\mathcal O(-1) = \{(p, l) \in \mathbb C^{n+1} \times \mathbb{CP}^n \mid p \in l\} \to \mathbb{CP}^n$$</p>
+<p>Let $X$ be a topological space, $L \to X$ a complex line bundle. Assume that $X$ is compact Hausdorff, and so we have sections $s_0, \dots s_n$, such that at each $x \in X$, at least one of the $s_i$ is non-zero. Choose a metric $h$ on $L$, then we have a map $f \colon L \to X \times \mathbb C^{n+1}$, given by
+$$f(x, \xi) = (x, h(s_0(x), \xi), \dots, h(s_n(x), \xi))$$
+Thus, we have embedded $L$ as a subbundle of a trivial bundle. Thus, we can define a map $\phi : X \to \mathbb{CP}^n$ by
+$$\phi(x) = f(L_x)$$
+By construction, $\phi^*\mathcal{O}(-1) = L$.</p>
+<p>Any map into $\mathbb{CP}^n$ will induce such a line bundle, and so we have a correspondence
+$$\{\text{maps }X \to \mathbb{CP}^n\} \leftrightarrow \{\text{line bundles }L \to X\}$$
+This is not a bijection, as homotopic maps will pull back the same line bundle, but we will treat it as a correspondence for now.</p>
+<p>Returning to algebraic geometry, the left hand side becomes $h_X(\mathbb P^n)$, and the right hand side becomes line bundles which are generated by $(n+1)$ global sections. Thus, the functor of points tells us about (globally generated) line bundles on $X$.</p>
+<p>More generally, we can replace projective space with an appropriate Grassmannian, and we get vector bundles of higher rank.</p>
+<h3 id="moduli">Moduli</h3>
+<p>Finally, we come to the topic of moduli. Say we are interested in some objects of type $\star$ (substistute $\star$ for what you want, e.g. curves, or vector bundles, or &hellip;). We want to put it into some form of &ldquo;moduli space&rdquo; $M$ say. What do we want this to do? Often, in algebraic geometry, we consider families of objects, e.g. families of conics, cubics and so on. We can represent this as a morphism $X \to S$, where the fibres are all of type $\star$. Then as a map of sets, we have a map $S \to M$.</p>
+<p>What we want instead is for this to be a map of varieties/schemes(/stacks&hellip;). Once we have this, we get a correspondence
+$$h_M(S) \leftrightarrow \{\text{families of }\star\text{ over }S\}$$</p>
+<p>Thus, starting by considering families of objects, we have (quite naturally) ended up with the functor of points on the left hand side. So far, we have assumed that $M$ actually exists, but one can still make sense of the functor without assuming $M$ makes sense, and this is a starting point to (modern) moduli theory.</p>
+
+    
+  </div>
+
+  
+
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+  <div class="back-to-top">
+    <a href="#top">
+      back to top
+    </a>
+  </div>
+  
+
+</div>
+
+
+      </main>
+    </div>
+
+    <footer>
+      
+
+    
+    <p>Powered by
+        <a href="https://gohugo.io/">Hugo</a>
+        and
+        <a href="https://github.com/tomfran/typo">tomfran/typo</a>
+    </p>
+    
+    
+    
+
+
+
+<link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css">
+<script defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js"></script>
+
+<script defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ]
+    });
+  });
+</script>
+
+    </footer>
+    
+  </body>
+
+  <script>
+
+  function isAuto() {
+    return document.body.classList.contains("auto");
+  }
+
+  function setTheme() {
+    if (!isAuto()) {
+      return
+    }
+
+    document.body.classList.remove("auto");
+    let cls = "light";
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      cls = "dark";
+    }
+
+    document.body.classList.add(cls);
+  }
+
+  function invertBody() {
+    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
+  }
+
+  if (isAuto()) {
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(invertBody);
+  }
+
+  setTheme();
+
+</script>
+
+</html>

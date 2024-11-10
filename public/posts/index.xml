@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Shing Tak Lam</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coursework</title>
-      <link>http://localhost:1313/posts/coursework/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/coursework/</guid>
-      <description></description>
+      <title>Functor of points</title>
+      <link>http://localhost:1313/posts/functor_of_points/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/functor_of_points/</guid>
+      <description>&lt;p&gt;One idea which has been coming up a lot in the &lt;a href=&#34;https://smstc.ac.uk/&#34;&gt;SMSTC&lt;/a&gt; course on Algebraic Geometry, lectured by Clark Barwick, has been the idea of the functor of points. Here, we&amp;rsquo;ll try and motivate that definition with some examples.&lt;/p&gt;&#xA;&lt;p&gt;Throughout, we work over an algebraically field $k$, and so schemes and morphisms are relative to $k$.&lt;/p&gt;&#xA;&lt;p&gt;Let $X$ be a scheme. Associated to this, we have a functor $h_X : \mathrm{Sch}/k^{\mathrm{op}} \to \mathrm{Sets}$, given by&#xA;$$h_X(Y) = \mathrm{Mor}(Y, X)$$&#xA;and this is called the &lt;em&gt;functor of points&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
