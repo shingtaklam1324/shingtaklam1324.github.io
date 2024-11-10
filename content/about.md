@@ -4,7 +4,7 @@
 title = 'About'
 +++
 
-I am a first year PhD student at the University of Glasgow, supervised by [Ruadhaí Dervan](https://www.maths.gla.ac.uk/~rdervan/). I am also an aligned student[^1] at the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/). My research interests are in the interactions between algebraic geometry, differential geometry and geometric analysis. I am currently thinking about the [Hitchin-Kobayashi correspondence](https://en.wikipedia.org/wiki/Kobayashi%E2%80%93Hitchin_correspondence).
+I am a first year PhD student at the University of Glasgow, supervised by [Ruadhaí Dervan](https://www.maths.gla.ac.uk/~rdervan/). I am also an aligned student[^1] at the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/). My research interests are in the interactions between algebraic geometry, differential geometry and geometric analysis. I am currently thinking about the [Hitchin-Kobayashi correspondence](https://en.wikipedia.org/wiki/Kobayashi%E2%80%93Hitchin_correspondence), and more generally, on extremal metrics and the associated stability conditions and moduli spaces.
 
 Previously, I did my BA and MMath at the University of Cambridge, where I wrote my Part III essay titled _Quantum Cohomology and the Seidel representation_, supervised by [Jack Smith](https://sites.google.com/view/jacksmithmathematics). See more about my essay [here](/essay)
 

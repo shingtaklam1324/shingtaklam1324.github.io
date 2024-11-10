@@ -1,5 +1,6 @@
 +++
-title="Courses"
+title="Courses and projects"
+math=true
 +++
 
 A list of courses which I have taken, or are currently taking. A * denotes a course which I did not take to exams.
@@ -36,6 +37,8 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 
 [Summary notes](https://shingtaklam1324.github.io/ib-summary)
 
+In the summer after second year, I did a summer project with [Anders Hansen](https://en.wikipedia.org/wiki/Anders_C._Hansen), studying the [Solvability Complexity Index](https://www.damtp.cam.ac.uk/research/afha/anders/SCI_FINAL.pdf), and looking at the potential (non-)computability of optimisation algorithms, such as [kernel machines](https://en.wikipedia.org/wiki/Kernel_method).
+
 ### Third year (Part II)
 
 * Algebraic Topology
@@ -52,6 +55,8 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 
 [Summary notes](https://shingtaklam1324.github.io/ii-summary)
 
+In the summer after third year, I did a summer project with [Alexei Kovalev](https://www.dpmms.cam.ac.uk/~agk22/), studying the hyperkähler structures on nilpotent orbits of $\mathrm{SL}(n, \mathbb C)$. In particular, I looked at a paper by Kobak--Swann, constructing them as hyperkähler quotients of a flat hyperkähler space[^1]. The other method which I looked at was on papers by Kronheimer, which constructed the hyperkähler structure by considering spaces of solutions to [Nahm's equations](https://en.wikipedia.org/wiki/Nahm_equations).
+
 ### Fourth year (Part III)
 
 * Algebraic Geometry*
@@ -59,7 +64,7 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 * Analysis of PDEs*
 * Commutative Algebra
 * Differential Geometry
-* Lie Algebras
+* Lie Algebras and their Representations
 * Abelian Varieties*
 * Elliptic PDEs*
 * Geometric Group Theory*
@@ -71,10 +76,12 @@ A list of courses which I have taken, or are currently taking. A * denotes a cou
 
 My Part III Essay was titled _Quantum Cohomology and the Seidel Representation_. See more [here](/essay)
 
-## University of Glasgow/Algebra Geometry and Quantum Fields CDT
+## University of Glasgow/AGQ CDT/SMSTC
 
 * Algebraic Geometry
-* Geometric Invariant Theory (reading group)
+* Geometric Invariant Theory (reading group, organiser)
 * Gradient Flows
 * Riemann Surfaces and their Associated Moduli Spaces
 * Topological Quantum Field Theory
+
+[^1]: Which with more knowledge now, this is a quiver variety, and the methods which were used in this paper are used when studying quiver representations.

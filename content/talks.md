@@ -5,6 +5,7 @@ math=true
 
 A list of talks which I have given:
 
+* Blowing up and the rational elliptic surface $E(1)$ - [AGQ](https://www.agq-cdt.org/) examples showcase
 * Hopf fibration - [Archimedeans](https://archim.org.uk/) student talks
 * Symplectic reduction - Part III Seminar
 * Morse theory - Part III Seminar
