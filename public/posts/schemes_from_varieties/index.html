@@ -18,11 +18,11 @@
 
 <title>
     
-    Courses and projects | Shing Tak Lam
+    Schemes from varieties | Shing Tak Lam
     
 </title>
 
-<link rel="canonical" href="http://localhost:1313/courses/"/>
+<link rel="canonical" href="http://localhost:1313/posts/schemes_from_varieties/"/>
 
 
 
@@ -136,7 +136,10 @@
     <a href="/">Home</a>
     <span class="breadcrumbs-separator"> > </span>
     
-    <a class="breadcrumbs-current" href="/courses/">Courses and projects</a>
+    <a href="/posts/">Posts</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a class="breadcrumbs-current" href="/posts/schemes_from_varieties/">Schemes from varieties</a>
 </div>
 
 
@@ -147,12 +150,16 @@
 
     
 
-    <h1 class="single-title">Courses and projects</h1>
+    <h1 class="single-title">Schemes from varieties</h1>
     
 
     
 
     <p class="single-readtime">
+      
+      
+      
+      <time datetime="2025-01-27T00:00:00&#43;00:00">January 27, 2025</time>
       
 
       
@@ -169,84 +176,20 @@
   
 
   <div class="single-content">
-    <p>A list of courses which I have taken, or are currently taking. A * denotes a course which I did not take to exams.</p>
-<h2 id="university-of-cambridge">University of Cambridge</h2>
-<h3 id="first-year-part-ia">First year (Part IA)</h3>
-<ul>
-<li>Numbers and Sets</li>
-<li>Groups</li>
-<li>Vectors and Matrices</li>
-<li>Differential Equations</li>
-<li>Analysis I</li>
-<li>Probability</li>
-<li>Vector Calculus</li>
-<li>Dynamics and Relativity</li>
-</ul>
-<p><a href="https://shingtaklam1324.github.io/summary-notes">Summary Notes</a></p>
-<h3 id="second-year-part-ib">Second year (Part IB)</h3>
-<ul>
-<li>Analysis and Topology</li>
-<li>Linear Algebra</li>
-<li>Markov Chains</li>
-<li>Methods*</li>
-<li>Quantum Mechanics*</li>
-<li>Geometry</li>
-<li>Groups, Rings and Modules</li>
-<li>Complex Analysis</li>
-<li>Numerical Analysis</li>
-<li>Statistics</li>
-<li>Optimisation*</li>
-<li>Variational Principles</li>
-</ul>
-<p><a href="https://shingtaklam1324.github.io/ib-summary">Summary notes</a></p>
-<p>In the summer after second year, I did a summer project with <a href="https://en.wikipedia.org/wiki/Anders_C._Hansen">Anders Hansen</a>, studying the <a href="https://www.damtp.cam.ac.uk/research/afha/anders/SCI_FINAL.pdf">Solvability Complexity Index</a>, and looking at the potential (non-)computability of optimisation algorithms, such as <a href="https://en.wikipedia.org/wiki/Kernel_method">kernel machines</a>.</p>
-<h3 id="third-year-part-ii">Third year (Part II)</h3>
-<ul>
-<li>Algebraic Topology</li>
-<li>Galois Theory</li>
-<li>Linear Analysis</li>
-<li>Number Theory*</li>
-<li>Probability and Measure</li>
-<li>Representation Theory*</li>
-<li>Algebraic Geometry</li>
-<li>Analysis of Functions</li>
-<li>Differential Geometry</li>
-<li>Number Fields</li>
-<li>Riemann Surfaces</li>
-</ul>
-<p><a href="https://shingtaklam1324.github.io/ii-summary">Summary notes</a></p>
-<p>In the summer after third year, I did a summer project with <a href="https://www.dpmms.cam.ac.uk/~agk22/">Alexei Kovalev</a>, studying the hyperkähler structures on nilpotent orbits of $\mathrm{SL}(n, \mathbb C)$. In particular, I looked at a paper by Kobak&ndash;Swann, constructing them as hyperkähler quotients of a flat hyperkähler space<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. The other method which I looked at was on papers by Kronheimer, which constructed the hyperkähler structure by considering spaces of solutions to <a href="https://en.wikipedia.org/wiki/Nahm_equations">Nahm&rsquo;s equations</a>.</p>
-<h3 id="fourth-year-part-iii">Fourth year (Part III)</h3>
-<ul>
-<li>Algebraic Geometry*</li>
-<li>Algebraic Topology</li>
-<li>Analysis of PDEs*</li>
-<li>Commutative Algebra</li>
-<li>Differential Geometry</li>
-<li>Lie Algebras and their Representations</li>
-<li>Abelian Varieties*</li>
-<li>Elliptic PDEs*</li>
-<li>Geometric Group Theory*</li>
-<li>Group Cohomology*</li>
-<li>Symplectic Topology</li>
-<li>Toric Varieties</li>
-</ul>
-<p><a href="https://shingtaklam1324.github.io/part-iii-notes">Notes</a></p>
-<p>My Part III Essay was titled <em>Quantum Cohomology and the Seidel Representation</em>. See more <a href="/essay">here</a></p>
-<h2 id="university-of-glasgowagq-cdtsmstc">University of Glasgow/AGQ CDT/SMSTC</h2>
-<ul>
-<li>Algebraic Geometry</li>
-<li>Geometric Invariant Theory (reading group, organiser)</li>
-<li>Gradient Flows</li>
-<li>Riemann Surfaces and their Associated Moduli Spaces</li>
-<li>Topological Quantum Field Theory</li>
-<li>Algebraic Stacks (reading group)</li>
-</ul>
+    <p>In scheme-theoretic algebraic geometry, we can define a variety as an reduced<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> separated scheme which is finite type over a field $k$. In this post, we&rsquo;ll start off with the notions of affine and projective varieties from classical algebraic geometry, and then generalise these incrementally, to end up at the definition of a scheme.</p>
+<p>First of all, recall that we have a bijection between affine varieties and finitely generated reduced $k$ algebras, given by sending an affine variety $X$ to it&rsquo;s ring of regular functions $k[X]$. If $X$ is given by the ideal $I \trianglelefteq k[x_1, \dots, x_n]$, then $k[X] = k[x_1, \dots, x_n]/\sqrt{I}$. The fact that we take the radical of $I$ means that the coordinate ring is reduced, i.e. it has no non-zero nilpotents. However, we lose geometric information from doing this.</p>
+<p>Consider Bezout&rsquo;s theorem: If $C_1, C_2$ are (irreducible projective) plane curves of degree $d_1, d_2$ and $k$ is algebraically closed, then $C_1 \cap C_2$ is at most $d_1d_2$ points. Why &ldquo;at most&rdquo;? Consider
+$$\{y = x^2\} \cap \{y = t\}.$$
+If $t \ne 0$, then we have two points. However, when $t = 0$, we only have point point, which is $(0, 0)$. Geometrically however, this looks &ldquo;different&rdquo; to just a point, there is the additional information which the intersection has &ldquo;degree 2&rdquo;. As $\sqrt{\langle x^2 \rangle} = \langle x \rangle$, this information is lost in the classical world.</p>
+<p>Thus, what we would like to do is consider $k[x_1, \dots, x_n]/I$ instead, without taking the radical. What we have done here, is dropped the condition that the scheme is reduced. In fact, this can be helpful. In the ring $A = k[x]/\langle x^2\rangle$, we can think of $x$ as an &ldquo;infinitesimal&rdquo; coordinate, and so we can work with infinitesimals in a rigorous manner. For example, we can define the tangent space as the space of all morphisms from $A$, which gives the analogue of the definition in differential geometry via curves agreeing to first order.</p>
+<p>Next, in differential geometry, a manifold is defined to be something which &ldquo;locally looks like Euclidean space&rdquo;. We would like to do the same thing with schemes. As in differential geometry, gluing spaces together is formally a quotient space. In topology, if we do not glue things carefully, we can end up with non-Hausdorffness. Separated is the scheme theoretic analogue of Hausdorff.</p>
+<p>Finally, we would like to drop the finite type over $k$ condition. Suppose we have a polynomial $f \in \mathbb Z[x, y]$. Then it would make sense to ask for solutions to $f = 0$ over $\mathbb Z, \mathbb Q, \mathbb R$ or $\mathbb C$. However, we needed to choose a field when defining varieties. If $X$ is a variety over $K$, and $Y$ is a variety over $L$, in general, there is no way of relating the two. If we forget the fact that our ring was a $k$-algebra, then we can end up with a more &ldquo;intrinsic&rdquo; object: a geometric space whose $K$-points correspond to solutions over $K$.</p>
+<p>With this, we have dropped all of the assumptions, and we have ended up with just a scheme. On the other hand, defining schemes take a bit more effort than just forgetting properties of varietie. Hopefully this is good motivation for why scheme theory can be considered as a natural generalisation of the notions in classical algebraic geometry.</p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1">
-<p>Which with more knowledge now, this is a quiver variety, and the methods which were used in this paper are used when studying quiver representations.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Irreducibility in classical and scheme-theoretic algebraic geometry mean basically the same thing, so we won&rsquo;t assume irreducibility in the definition of a variety - recall that integral is equivalent to irreducible and reduced.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>
@@ -272,8 +215,8 @@
             <div class="single-pagination-container-prev">
                 <div class="single-pagination-text">←</div>
                 <div class="single-pagination-text">
-                    <a href="/essay/">
-                        Essay
+                    <a href="/posts/functor_of_points/">
+                        Functor of points
                     </a>
                 </div>
             </div>
@@ -281,15 +224,6 @@
         </div>
 
         <div class="single-pagination-next">
-            
-            <div class="single-pagination-container-next">
-                <div class="single-pagination-text">
-                    <a href="/about/">
-                        About
-                    </a>
-                </div>
-                <div class="single-pagination-text">→</div>
-            </div>
             
         </div>
 
