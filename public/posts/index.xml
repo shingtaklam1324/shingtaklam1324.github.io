@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Shing Tak Lam</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canonical metrics in complex geometry</title>
+      <link>http://localhost:1313/posts/canonical_metrics/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/canonical_metrics/</guid>
+      <description>&lt;p&gt;In this post, I&amp;rsquo;ll attempt to provide an intorduction to the study of canonical (or extremal) metrics in complex geometry. The emphasis of this post is on the differential geometry side of the picture, and not the algebro-geometric side. In particular, there are interesting links to moduli theory which I won&amp;rsquo;t cover. Finally, this is supposed to be an overview post, and so I won&amp;rsquo;t cover the geometric analysis aspects on the subject.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Schemes from varieties</title>
       <link>http://localhost:1313/posts/schemes_from_varieties/</link>
