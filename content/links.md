@@ -2,7 +2,7 @@
 title="Links"
 +++
 
-Some links which are useful for me:
+Some links which are useful for me, but hopefully they might be helpful to others. If there's anything I should add, please let me know!
 
 ## Glasgow Seminars
 
@@ -15,6 +15,13 @@ Some links which are useful for me:
 
 * [GeCo GeDi](https://gecogedi.dimai.unifi.it/)
 * [Ravi Vakil's list](https://math.stanford.edu/~vakil/conferences.html)
+
+## Arxiv recent papers
+
+* [math.AG](https://arxiv.org/list/math.AG/recent)
+* [math.CV](https://arxiv.org/list/math.CV/recent)
+* [math.DG](https://arxiv.org/list/math.DG/recent)
+* [math.SG](https://arxiv.org/list/math.SG/recent)
 
 ## Mailing Lists/Seminars
 
