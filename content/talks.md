@@ -5,6 +5,7 @@ math=true
 
 A list of talks which I have given:
 
+* Deformation theory and smoothness - Stacks reading group
 * Kempf-Ness - Geometric Invariant Theory Reading Group
 * Blowing up and the rational elliptic surface $E(1)$ - [AGQ](https://www.agq-cdt.org/) examples showcase
 * Hopf fibration - [Archimedeans](https://archim.org.uk/) student talks
