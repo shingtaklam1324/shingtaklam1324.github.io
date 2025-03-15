@@ -5,6 +5,8 @@ math=true
 
 A list of talks which I have given:
 
+* Gauge theory and Floer theory - Glasgow Geometry and Topology Pre-Seminar, before [this talk](https://www.gla.ac.uk/schools/mathematicsstatistics/events/details/?id=11391)
+* Big line bundles, Volume and the Zariski decomposition - _Positivity in Algebraic Geometry_ reading group
 * Deformation theory and smoothness - Stacks reading group
 * Kempf-Ness - Geometric Invariant Theory Reading Group
 * Blowing up and the rational elliptic surface $E(1)$ - [AGQ](https://www.agq-cdt.org/) examples showcase
