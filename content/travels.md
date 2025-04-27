@@ -10,6 +10,4 @@ Events which I have attended:
 
 Events which I will be attending:
 
-1. [2025 Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home), Fort Collins, USA, July 14-25[^1] 2025
-
-[^1]: TBC, currently I'm thinking of attending weeks 1 and 2.
+1. [2025 Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home), Fort Collins, USA, July 14-18 2025
