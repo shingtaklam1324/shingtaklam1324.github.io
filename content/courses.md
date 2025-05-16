@@ -80,9 +80,7 @@ My Part III Essay was titled _Quantum Cohomology and the Seidel Representation_.
 
 * Algebraic Geometry
 * Geometric Invariant Theory (reading group, organiser)
-* Gradient Flows
 * Riemann Surfaces and their Associated Moduli Spaces
-* Topological Quantum Field Theory
 * Algebraic Stacks (reading group)
 
 [^1]: Which with more knowledge now, this is a quiver variety, and the methods which were used in this paper are used when studying quiver representations.
