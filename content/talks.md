@@ -6,6 +6,7 @@ math=true
 A list of talks which I have given (in reverse chronological order):
 
 1. Canonical metrics on families of vector bundles - [Fibrations and Deformations](https://delcroix.perso.math.cnrs.fr/MARGE3/)
+1. The $\alpha$ and $\delta$-invariants - K-stability reading group (Sections 6.1-6.3.1 of [Blum's notes](https://www.math.utah.edu/~blum/KstabilityNotes.pdf))
 1. Introduction to symplectic topology - Glasgow Geometry and Topology Pre-Seminar, before [Ivan Smith's talk](https://www.gla.ac.uk/schools/mathematicsstatistics/events/details/?id=11399)
 1. Canonical metrics on families of vector bundles - Warwick Junior Algebraic Geometry Seminar
 1. Gauge theory and Floer theory - Glasgow Geometry and Topology Pre-Seminar, before [Matthew Hedden's talk](https://www.gla.ac.uk/schools/mathematicsstatistics/events/details/?id=11391)
