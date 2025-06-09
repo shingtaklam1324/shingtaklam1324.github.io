@@ -10,4 +10,5 @@ Events which I have attended:
 
 Events which I will be attending:
 
+1. [Fibrations and Deformations](https://delcroix.perso.math.cnrs.fr/MARGE3/), Brest, 17-19 June 2025
 1. [2025 Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home), Fort Collins, USA, July 14-18 2025
