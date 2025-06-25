@@ -12,3 +12,7 @@ Events which I have attended:
 1. [Winter School on K-stability](https://conferences.cirm-math.fr/3167.html), CIRM Marseille, France, 3-7 March 2025
 1. [UKAGNetwork Winter School](https://www.ukagnetwork.org/upcoming-activities/lancaster-december-2024), Lancaster, 16-20 December 2024
 1. [GLEN](https://www.maths.gla.ac.uk/~rdervan/GLEN.html), Glasgow, 9-10 December 2024
+
+Local events:
+
+1. [Glasgow Edinburgh Algebra Research Student (GEARS) seminar](https://sites.google.com/view/gears-seminar/home)
