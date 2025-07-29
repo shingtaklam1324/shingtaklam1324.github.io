@@ -4,7 +4,13 @@ title="Links"
 
 Some links which are useful for me, but hopefully they might be helpful to others. If there's anything I should add, please let me know!
 
-## Glasgow Seminars
+## Warwick seminars
+
+* [Algebraic Geometry](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/algebraicgeometry)
+* [Analysis](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/analysis/)
+* [Junior Algebraic Geometry](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/jaws/)
+
+## Glasgow seminars
 
 * [Geometry and Topology](https://www.gla.ac.uk/schools/mathematicsstatistics/events/?seriesID=8)
 * [Algebraic Geometry](https://www.gla.ac.uk/schools/mathematicsstatistics/events/?seriesID=21)

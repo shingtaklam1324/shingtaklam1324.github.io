@@ -4,7 +4,7 @@
 title = 'About'
 +++
 
-I am a first year PhD student at the University of Glasgow, supervised by [Ruadhaí Dervan](https://www.maths.gla.ac.uk/~rdervan/). I am also an aligned student[^1] at the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/).
+I am a first year PhD student at the University of Glasgow[^2], supervised by [Ruadhaí Dervan](https://www.maths.gla.ac.uk/~rdervan/). I am also an aligned student[^1] at the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/).
 
 My research interests lie in the intersection of algebraic geometry (geometric invariant theory, stability, moduli), differential geometry (canonical metrics, Kähler geometry, gauge theory) and symplectic geometry (pseudoholomorphic curves, moment maps).
 
@@ -13,3 +13,5 @@ Previously, I did my BA and MMath at the University of Cambridge, where I wrote 
 A copy of my CV can be found [here](/cv-shing-tak-lam-may-2025.pdf)
 
 [^1]: The funding for my PhD comes from Ruadhaí Dervan's Royal Society University Research Fellowship. I am not an official member of the CDT, however I do participate in the CDT events (at least for the first year).
+
+[^2]: Moving to the University of Warwick in September.
