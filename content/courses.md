@@ -79,8 +79,9 @@ My Part III Essay was titled _Quantum Cohomology and the Seidel Representation_.
 ## University of Glasgow/AGQ CDT/SMSTC
 
 * Algebraic Geometry
+* Algebraic Stacks (reading group)
 * Geometric Invariant Theory (reading group, organiser)
 * Riemann Surfaces and their Associated Moduli Spaces
-* Algebraic Stacks (reading group)
+* Topological Quantum Field Theory
 
 [^1]: Which with more knowledge now, this is a quiver variety, and the methods which were used in this paper are used when studying quiver representations.
