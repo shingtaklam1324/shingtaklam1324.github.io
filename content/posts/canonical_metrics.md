@@ -1,10 +1,49 @@
 +++
-title="Canonical metrics in complex geometry"
-date="02 Feb 2025"
+title="Kähler geometry and canonical metrics"
+date="27 Aug 2025"
 math=true
+draft=true
 +++
 
-In this post, I'll attempt to provide an intorduction to the study of canonical (or extremal) metrics in complex geometry. The emphasis of this post is on the differential geometry side of the picture, and not the algebro-geometric side. In particular, there are interesting links to moduli theory which I won't cover. Finally, this is supposed to be an overview post, and so I won't cover the geometric analysis aspects on the subject.
+In this post, I'll discuss a bit about what is Kähler geometry, what kind of questions show up, and why these results should be true.
+
+## Kähler manifolds
+
+A Kähler manifold is a tuple $(M, J, g, \omega)$, where
+* $M$ is a smooth manifold,
+* $J$ is an integrable almost complex structure, i.e. $(M, J)$ is a complex manifold,
+* $g$ is a Riemannian metric,
+* $\omega$ is a symplectic form,
+satisfying the compatibility condition
+$$\omega(u, v) = g(u, Jv) \quad\quad g(Ju, Jv) = g(u, v).$$
+
+From this, we can see that Kähler geometry lies in the intersection between complex (or often algebraic) geometry, Riemannian geometry and symplectic geometry, and techniques from all three subject areas show up in the study of Kähler manifolds. 
+
+We note that two of $J, g, \omega$ determine the third, and in this post, we will take the perspective of fixing $J$, and varying $g$ or $\omega$. In symplectic topology, especially in pseudoholomorphic curve theory, the approach is instead to fix $\omega$, and choose a generic (not necessarily integrable) $J$.
+
+## Special Riemannian metrics
+
+There are many theorems which link the local metric structure to the global structure of a manifold. A good example of this is the Gauss-Bonnet theorem, which says that
+$$\int_X K \mathrm d A = 2\pi \chi(X),$$
+where $X$ is a closed surface, $K$ the Gaussian curvature of a metric, $\chi(X)$ the Euler characteristic. In particular, what this says is that by combining the local curvature quantities, we can infer global topological information. In particular, if the metric is "nice", then this would be a very powerful technique. The natural question is then: what is a nice metric?
+
+We recall that if $X$ is a closed orientable surface of genus $g_X$, then it admits a Riemannian metric with constant Gaussian curvature
+* $1$ if $g_X = 0$,
+* $0$ if $g_X = 1$,
+* $-1$ if $g_X \ge 2$.
+
+Thus, a natural generalisation would be something along the lines of "constant curvature". In two dimensions, the Riemannian curvature tensor has only one component, which is (a multiple of) the Gaussian curvature. Thus, we get the following generalisations:
+* $\mathrm{Riem} = \mathrm{const}$,
+* $\mathrm{Ric} = \mathrm{const} \cdot g$,
+* $\mathrm{Scal} = \mathrm{const}$.
+
+The first equation, asking for the Riemann curvature tensor to be constant, turns out to be a very strong condition, and such metrics very rarely exist. The second equation is called the _Einstein equation_, by analogy with Einstein's Field equations in General Relativity. In the Riemannian setting, not much is known about them. Finally, constant scalar curvature metrics are abundant in Riemannian geometry, and we don't get a very strong constraint on the geometry from it.
+
+However, when we ask for the metric to be Kähler as well, then we can get much stronger results.
+
+## Kähler-Einstein and constant scalar curvature Kähler metrics
+
+<!-- In this post, I'll attempt to provide an intorduction to the study of canonical (or extremal) metrics in complex geometry. The emphasis of this post is on the differential geometry side of the picture, and not the algebro-geometric side. In particular, there are interesting links to moduli theory which I won't cover. Finally, this is supposed to be an overview post, and so I won't cover the geometric analysis aspects on the subject.
 
 Recall that if $S$ is a Riemann surface, then its universal cover is one of
 
@@ -97,4 +136,4 @@ So far, the answer is (mostly) no.
 
 [^1]: Strictly speaking the metric is $g$, and $\omega$ is the symplectic form. But as we are fixing the complex structure, we can recover $g$ from $\omega$ and vice versa.
 
-[^2]: In Riemannian geometry, the Ricci tensor is a symmetric $(0, 2)$-tensor. In Kähler geometry, we use the complex structure to make it into a $(1, 1)$-form. This definition then agrees with the definition of an Einstein metric in Riemannian geometry.
+[^2]: In Riemannian geometry, the Ricci tensor is a symmetric $(0, 2)$-tensor. In Kähler geometry, we use the complex structure to make it into a $(1, 1)$-form. This definition then agrees with the definition of an Einstein metric in Riemannian geometry. -->

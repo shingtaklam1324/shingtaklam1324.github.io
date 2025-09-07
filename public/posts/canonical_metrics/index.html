@@ -18,7 +18,7 @@
 
 <title>
     
-    Canonical metrics in complex geometry | Shing Tak Lam
+    Kähler geometry and canonical metrics | Shing Tak Lam
     
 </title>
 
@@ -146,7 +146,7 @@
     <a href="/posts/">Posts</a>
     <span class="breadcrumbs-separator"> > </span>
     
-    <a class="breadcrumbs-current" href="/posts/canonical_metrics/">Canonical metrics in complex geometry</a>
+    <a class="breadcrumbs-current" href="/posts/canonical_metrics/">Kähler geometry and canonical metrics</a>
 </div>
 
 
@@ -157,7 +157,7 @@
 
     
 
-    <h1 class="single-title">Canonical metrics in complex geometry</h1>
+    <h1 class="single-title">Kähler geometry and canonical metrics</h1>
     
 
     
@@ -166,7 +166,7 @@
       
       
       
-      <time datetime="2025-02-02T00:00:00&#43;00:00">February 2, 2025</time>
+      <time datetime="2025-08-27T00:00:00&#43;00:00">August 27, 2025</time>
       
 
       
@@ -183,75 +183,38 @@
   
 
   <div class="single-content">
-    <p>In this post, I&rsquo;ll attempt to provide an intorduction to the study of canonical (or extremal) metrics in complex geometry. The emphasis of this post is on the differential geometry side of the picture, and not the algebro-geometric side. In particular, there are interesting links to moduli theory which I won&rsquo;t cover. Finally, this is supposed to be an overview post, and so I won&rsquo;t cover the geometric analysis aspects on the subject.</p>
-<p>Recall that if $S$ is a Riemann surface, then its universal cover is one of</p>
+    <p>In this post, I&rsquo;ll discuss a bit about what is Kähler geometry, what kind of questions show up, and why these results should be true.</p>
+<h2 id="kähler-manifolds">Kähler manifolds</h2>
+<p>A Kähler manifold is a tuple $(M, J, g, \omega)$, where</p>
 <ul>
-<li>$\mathbb{CP}^1$</li>
-<li>$\mathbb C$</li>
-<li>$\mathbb D$, the unit disc in $\mathbb C$.</li>
+<li>$M$ is a smooth manifold,</li>
+<li>$J$ is an integrable almost complex structure, i.e. $(M, J)$ is a complex manifold,</li>
+<li>$g$ is a Riemannian metric,</li>
+<li>$\omega$ is a symplectic form,
+satisfying the compatibility condition
+$$\omega(u, v) = g(u, Jv) \quad\quad g(Ju, Jv) = g(u, v).$$</li>
 </ul>
-<p>In particular, we have natural choices of metrics for each of these. The usual metric on $\mathbb{CP}^1$ has constant (Gaussian) curvature $1$, the metric on $\mathbb C$ has curvature $0$, and the hyperbolic metric on $\mathbb D$ has curvature $-1$. Another way to think about this is that every compact Riemann surface has a metric with constant curvature, and we get a trichotomy:</p>
+<p>From this, we can see that Kähler geometry lies in the intersection between complex (or often algebraic) geometry, Riemannian geometry and symplectic geometry, and techniques from all three subject areas show up in the study of Kähler manifolds.</p>
+<p>We note that two of $J, g, \omega$ determine the third, and in this post, we will take the perspective of fixing $J$, and varying $g$ or $\omega$. In symplectic topology, especially in pseudoholomorphic curve theory, the approach is instead to fix $\omega$, and choose a generic (not necessarily integrable) $J$.</p>
+<h2 id="special-riemannian-metrics">Special Riemannian metrics</h2>
+<p>There are many theorems which link the local metric structure to the global structure of a manifold. A good example of this is the Gauss-Bonnet theorem, which says that
+$$\int_X K \mathrm d A = 2\pi \chi(X),$$
+where $X$ is a closed surface, $K$ the Gaussian curvature of a metric, $\chi(X)$ the Euler characteristic. In particular, what this says is that by combining the local curvature quantities, we can infer global topological information. In particular, if the metric is &ldquo;nice&rdquo;, then this would be a very powerful technique. The natural question is then: what is a nice metric?</p>
+<p>We recall that if $X$ is a closed orientable surface of genus $g_X$, then it admits a Riemannian metric with constant Gaussian curvature</p>
 <ul>
-<li>Positive: genus $0$</li>
-<li>Flat: genus $1$</li>
-<li>Negative: genus $\ge 2$.</li>
+<li>$1$ if $g_X = 0$,</li>
+<li>$0$ if $g_X = 1$,</li>
+<li>$-1$ if $g_X \ge 2$.</li>
 </ul>
-<p>One interesting question is then: can we find constant scalar curvature metrics on higher dimensional complex manifolds? To do this, we&rsquo;ll first put this question into a more general framework.</p>
-<h2 id="preliminaries">Preliminaries</h2>
-<h3 id="geometric-invariant-theory">Geometric Invariant Theory</h3>
-<p>Geometric Invariant Theory (GIT) is one answer to the question: how do we take quotients of algebraic varieties? More concretely, let $X$ be a projective variety, $G$ a reductive Lie group (which we will understand as $\mathrm{Lie}(G) = \mathrm{Lie}(K) \otimes \mathbb C$ for a maximal compact subgroup $K$). How do we define a variety $X/G$?</p>
-<p>The answer, as developed by Mumford, is to ask for a &ldquo;stability&rdquo; condition. That is, we define what it means for an orbit to be stable, semistable and polystable, the subsets of $X$ are denoted by $X^s, X^{ss}, X^{ps}$ respectively. These satisfy
-$$X^s \subseteq X^{ps} \subseteq X^{ss} \subseteq X.$$
-Once we have this, we can then define the quotient as $X^{ps}/G$, or as $X^{ss}/\!\!/G$. The first is a genuine quotient of sets, and the second is a &ldquo;categorical quotient&rdquo;.</p>
-<h3 id="moment-maps">Moment maps</h3>
-<p>In classical dynamics, we have Hamilton&rsquo;s equations
-$$\frac{\mathrm d q}{\mathrm d t} = \frac{\partial H}{\partial p} \quad\text{ and }\quad \frac{\mathrm d p}{\mathrm d t} = -\frac{\partial H}{\partial q}.$$
-If we interpret this as the flow of a vector field $X_H$, and we define $\omega = \mathrm d p \wedge \mathrm d q$, then the above can be written as
-$$\iota_{X_H}\omega = -\mathrm d H.$$</p>
-<p>More generally, if $X$ is a manifold, $\omega$ a non-degenerate closed $2$-form on $X$, then $(X, \omega)$ is called a symplectic manifold. One way to think about them is as the generalisation of phase space from classical dynamics - for any manifold $Q$, the cotangent bundle $T^*Q$ is canonically a symplectic manifold. Another class of examples come from algebraic geometry: $\mathbb C^n$ and $\mathbb {CP}^n$ have canonical symplectic structures, and this makes any smooth affine or projective variety into a symplectic manifold.</p>
-<p>Recall Noether&rsquo;s principle, which states (very roughly) &ldquo;every symmetry has a conserved quantity&rdquo;. We can interpret a symmetry as an action by a compact Lie group $K$, and the corresponding conserved quantity is then called a moment map, denoted by $\mu : X \to \mathrm{Lie}(K)^*$.</p>
-<p>One important theorem in this area is the Marsden-Weinstein reduction theorem, which says that under certain conditions, $\mu^{-1}(0)/K$ is again a symplectic manifold. In terms of classical dynamics, one can think of this as a reduced phase space, where we fix $\mu = 0$.</p>
-<h3 id="kempf-ness">Kempf-Ness</h3>
-<p>From the above, we now have two ways to take a quotient. One coming from algebraic geometry, and one from symplectic geometry. The Kempf-Ness theorem states that these two give the same result. That is,</p>
-<p>$$X^{ps}/G \cong \mu^{-1}(0)/K$$</p>
-<p>and the complex (resp. symplectic) structures on both sides are nicely compatible. Another way to view this is that we can determine stability (which is an algebro-geometric condition) using moment maps (which are symplectic objects).</p>
-<h3 id="general-principle">General principle</h3>
-<p>Collecting all of the above, we can now state the general guiding principle for the area. The space of metrics is an infinite dimensional space, and we would like to choose a canonical representative. One way to do this is to write down a PDE which this metric should satisfy. Ideally, this metric is then unique, up to the symmetry group $K$ of the situation. Next, we then interpret the PDE as a zero for a moment map for an appropriate $K$-action. Thus, the existence of a solution to the PDE looks like finding a point in $\mu^{-1}(0)/K$.</p>
-<p>By analogy with Kempf-Ness, this should be the &ldquo;same&rdquo; as looking at $X^{ps}/G$. Note that even through $G$ may not exist (the complexification of an infinite dimensional Lie group may not exist), we can still make sense of the right hand side. This then gives us:</p>
-<blockquote>
-<p>A canonical metric exists if and only if a stability condition is satisfied.</p></blockquote>
-<p>This links differential geometry on the left hand side with algebraic geometry on the right hand side.</p>
-<h2 id="kähler-einstein-metrics">Kähler-Einstein metrics</h2>
-<p>A Kähler-Einstein (KE) metric $\omega$ <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> is one which satisfies<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>
-$$\mathrm{Ric}(\omega) = \lambda\omega.$$
-By rescaling, we can assume that $\lambda \in \{0, 1, -1\}$. This value is determined topologically, as $\mathrm{Ric}(\omega) \in c_1(X)$.</p>
-<p>When $\lambda = -1$, Aubin and Yau showed that there is always such a metric, and when $\lambda = 0$, Yau showed that such a metric always exist. The case $\mathrm{Ric}(\omega) = 0$ is now called a Calabi-Yau manifold.</p>
-<p>In the case of Riemann surfaces/algebraic geometry, this corresponds to the &ldquo;negatively curved&rdquo; and the &ldquo;flat&rdquo; cases, but we are left with the &ldquo;positively curved&rdquo; case. Here, there are obstructions. The Yau-Tian-Donaldson conjecture is that</p>
-<blockquote>
-<p>A Kähler-Einstein metric with $\lambda = 1$ exists if and only if $X$ is $K$-polystable.</p></blockquote>
-<p>Here, $K$-(poly)stability is an algebro-geometric condition, which is motivated by the Hilbert-Mumford criterion in GIT. Roughly speaking, if an orbit is not (semi/poly)stable, then we can find a one-parameter subgroup $\mathbb C^* \hookrightarrow G$ which destabilises it.</p>
-<p>This version of the Yau-Tian-Donaldson conjecture was proven by Chen-Donaldson-Sun, however one can make an analogous statement for constant scalar curvature metrics, which is still open.</p>
-<h2 id="hermite-einstein-metrics">Hermite-Einstein metrics</h2>
-<p>One can also define a notion of a canonical metric for holomorphic vector bundles. On any fixed holomorphic vector bundle $E \to X$, with a hermitian metric $h$, there is a unique connection, called the Chern connection, which is compatible with the complex structure and the metric. The Hermite-Einstein equation is then</p>
-<p>$$\Lambda_\omega(iF) = \lambda \mathrm{id}_E.$$</p>
-<p>Here, $\Lambda_\omega : \Omega^2(\mathrm{End}(E)) \to \Omega^0(\mathrm{End}(E))$ is the contraction operator, taking the trace of the form part, and $F$ is the curvature of the Chern connection. The Hitchin-Kobayashi correspondence then states:</p>
-<blockquote>
-<p>A Hermite-Einstein metric exists if and only if the bundle is slope polystable.</p></blockquote>
-<p>Slope polystability is a notion introduced by Mumford in the study of the moduli of vector bundles on curves. For our purposes, one way to think about it is that any sub-bundle is &ldquo;less-twisted&rdquo;. This correspondence was proven by Donaldson (when $X$ is projective) and by Uhlenbeck-Yau (for arbitrary Kähler $X$).</p>
-<h2 id="examples">Examples</h2>
-<p>One interesting question is then: We have a good understanding of the existence of these metrics. Can we write down any explicit examples?</p>
-<p>So far, the answer is (mostly) no.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Strictly speaking the metric is $g$, and $\omega$ is the symplectic form. But as we are fixing the complex structure, we can recover $g$ from $\omega$ and vice versa.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p>In Riemannian geometry, the Ricci tensor is a symmetric $(0, 2)$-tensor. In Kähler geometry, we use the complex structure to make it into a $(1, 1)$-form. This definition then agrees with the definition of an Einstein metric in Riemannian geometry.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
+<p>Thus, a natural generalisation would be something along the lines of &ldquo;constant curvature&rdquo;. In two dimensions, the Riemannian curvature tensor has only one component, which is (a multiple of) the Gaussian curvature. Thus, we get the following generalisations:</p>
+<ul>
+<li>$\mathrm{Riem} = \mathrm{const}$,</li>
+<li>$\mathrm{Ric} = \mathrm{const} \cdot g$,</li>
+<li>$\mathrm{Scal} = \mathrm{const}$.</li>
+</ul>
+<p>The first equation, asking for the Riemann curvature tensor to be constant, turns out to be a very strong condition, and such metrics very rarely exist. The second equation is called the <em>Einstein equation</em>, by analogy with Einstein&rsquo;s Field equations in General Relativity. In the Riemannian setting, not much is known about them. Finally, constant scalar curvature metrics are abundant in Riemannian geometry, and we don&rsquo;t get a very strong constraint on the geometry from it.</p>
+<p>However, when we ask for the metric to be Kähler as well, then we can get much stronger results.</p>
+<h2 id="kähler-einstein-and-constant-scalar-curvature-kähler-metrics">Kähler-Einstein and constant scalar curvature Kähler metrics</h2>
 
     
   </div>

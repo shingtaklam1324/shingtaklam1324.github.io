@@ -66,9 +66,9 @@ url = "/about"
 name = "courses"
 url = "/courses"
 
-[[params.menu]]
-name = "essay"
-url = "/essay"
+# [[params.menu]]
+# name = "essay"
+# url = "/essay"
 
 [[params.menu]]
 name = "talks"
@@ -78,9 +78,9 @@ url = "/talks"
 name = "travels"
 url = "/travels"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
 
 [[params.menu]]
 name = "links"

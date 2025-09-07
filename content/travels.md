@@ -2,13 +2,8 @@
 title="Travels"
 +++
 
-Future:
-
 1. [VII BrAG Meeting](https://sites.google.com/site/bragmeeting/7th-brag-meeting), Nottingham, September 10-12 2025
 1. [Workshop on Singular canonical Kähler metrics on compact and non-compact manifolds](https://erdoscenter.renyi.hu/events/workshop-singular-canonical-kahler-metrics-compact-and-non-compact-manifolds), Budapest, September 1-5 2025
-
-Past:
-
 1. [2025 Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home), Fort Collins, USA, July 14-18 2025
 1. [Fibrations and Deformations](https://delcroix.perso.math.cnrs.fr/MARGE3/), Brest, 17-19 June 2025
 1. [AGQ CDT](https://www.agq-cdt.org/) retreat, Gartmore House, 27-30 May 2025

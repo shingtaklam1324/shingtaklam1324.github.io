@@ -3,9 +3,7 @@ title="Courses and projects"
 math=true
 +++
 
-A list of courses which I have taken, or are currently taking. A * denotes a course which I did not take to exams.
-
-## University of Cambridge
+## Cambridge
 
 ### First year (Part IA)
 
@@ -55,7 +53,7 @@ In the summer after second year, I did a summer project with [Anders Hansen](htt
 
 [Summary notes](https://shingtaklam1324.github.io/ii-summary)
 
-In the summer after third year, I did a summer project with [Alexei Kovalev](https://www.dpmms.cam.ac.uk/~agk22/), studying the hyperkähler structures on nilpotent orbits of $\mathrm{SL}(n, \mathbb C)$. In particular, I looked at a paper by Kobak--Swann, constructing them as hyperkähler quotients of a flat hyperkähler space[^1]. The other method which I looked at was on papers by Kronheimer, which constructed the hyperkähler structure by considering spaces of solutions to [Nahm's equations](https://en.wikipedia.org/wiki/Nahm_equations).
+In the summer after third year, I did a summer project with [Alexei Kovalev](https://www.dpmms.cam.ac.uk/~agk22/), studying the hyperkähler structures on nilpotent orbits of $\mathrm{SL}(n, \mathbb C)$. In particular, I looked at a paper by Kobak--Swann, constructing them as hyperkähler quotients of a flat hyperkähler space. The other method which I looked at was on papers by Kronheimer, which constructed the hyperkähler structure by considering spaces of solutions to [Nahm's equations](https://en.wikipedia.org/wiki/Nahm_equations).
 
 ### Fourth year (Part III)
 
@@ -76,12 +74,10 @@ In the summer after third year, I did a summer project with [Alexei Kovalev](htt
 
 My Part III Essay was titled _Quantum Cohomology and the Seidel Representation_. See more [here](/essay)
 
-## University of Glasgow/AGQ CDT/SMSTC
+## Glasgow/AGQ CDT/SMSTC
 
 * Algebraic Geometry
 * Algebraic Stacks (reading group)
 * Geometric Invariant Theory (reading group, organiser)
 * Riemann Surfaces and their Associated Moduli Spaces
 * Topological Quantum Field Theory
-
-[^1]: Which with more knowledge now, this is a quiver variety, and the methods which were used in this paper are used when studying quiver representations.
