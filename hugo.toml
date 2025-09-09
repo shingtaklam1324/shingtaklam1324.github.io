@@ -62,9 +62,9 @@ url = "/"
 name = "about"
 url = "/about"
 
-[[params.menu]]
-name = "courses"
-url = "/courses"
+# [[params.menu]]
+# name = "courses"
+# url = "/courses"
 
 # [[params.menu]]
 # name = "essay"
