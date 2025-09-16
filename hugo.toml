@@ -90,6 +90,8 @@ url = "/links"
 [markup]
 [markup.highlight]
 style = 'algol'
+[markup.goldmark.renderer]
+unsafe = true
 
 # # Giscus comments
 # [params.giscus]

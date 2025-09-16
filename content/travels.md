@@ -15,3 +15,5 @@ title="Travels"
 Local:
 
 1. [Glasgow Edinburgh Algebra Research Student (GEARS) seminar](https://sites.google.com/view/gears-seminar/home)
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1siwWdOTbdPCxxXPQGF1pHD1o9E7rhFE&ehbc=2E312F" width="640" height="480"></iframe>
