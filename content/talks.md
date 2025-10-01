@@ -5,6 +5,8 @@ math=true
 
 A list of talks which I have given (in reverse chronological order):
 
+1. (Infinite dimensional) Kähler geometry - [Warwick Postgraduate Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/postgraduate/25/#lam)
+1. Introduction to Gauge theory and Seiberg-Witten theory - Gauge theory reading group
 1. Canonical metrics on families of vector bundles - [Fibrations and Deformations](https://delcroix.perso.math.cnrs.fr/MARGE3/)
 1. The $\alpha$ and $\delta$-invariants - K-stability reading group (Sections 6.1-6.3.1 of [Blum's notes](https://www.math.utah.edu/~blum/KstabilityNotes.pdf))
 1. Introduction to symplectic topology - Glasgow Geometry and Topology Pre-Seminar, before [Ivan Smith's talk](https://www.gla.ac.uk/schools/mathematicsstatistics/events/details/?id=11399)
