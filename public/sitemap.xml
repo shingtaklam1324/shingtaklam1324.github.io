@@ -25,6 +25,8 @@
   </url><url>
     <loc>http://localhost:1313/links/</loc>
   </url><url>
+    <loc>http://localhost:1313/publications/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/talks/</loc>
