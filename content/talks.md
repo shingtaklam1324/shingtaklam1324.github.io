@@ -16,7 +16,7 @@ A list of talks which I have given (in reverse chronological order within each c
 
 ### Reading group talks
 
-1. TBC - [AGQ Gauge theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/gauge-theoretic-invariants/)
+1. Compactness, Wall crossing, Connect sum and Blowing up - [AGQ Gauge theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/gauge-theoretic-invariants/)
 1. Stable toric varieties - Reading group on [Moduli of Weighted Hyperplane Arrangements](https://link.springer.com/book/10.1007/978-3-0348-0915-3)
 1. Introduction to Gauge theory and Seiberg-Witten theory - [AGQ Gauge theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/gauge-theoretic-invariants/)
 1. The $\alpha$ and $\delta$-invariants - K-stability reading group (Sections 6.1-6.3.1 of [Blum's notes](https://www.math.utah.edu/~blum/KstabilityNotes.pdf))
