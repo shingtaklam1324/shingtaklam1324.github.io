@@ -21,8 +21,8 @@ A list of talks which I have given (in reverse chronological order within each c
 1. Introduction to Gauge theory and Seiberg-Witten theory - [AGQ Gauge theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/gauge-theoretic-invariants/)
 1. The $\alpha$ and $\delta$-invariants - K-stability reading group (Sections 6.1-6.3.1 of [Blum's notes](https://www.math.utah.edu/~blum/KstabilityNotes.pdf))
 1. Big line bundles, Volume and the Zariski decomposition - _Positivity in Algebraic Geometry_ reading group
-1. Deformation theory and smoothness - Stacks reading group
-1. Kempf-Ness - Geometric Invariant Theory Reading Group
+1. Deformation theory and smoothness - [AGQ Stacks reading group](https://www.agq-cdt.org/training/cohort-reading-groups/stacks/)
+1. Kempf-Ness - [AGQ Geometric Invariant Theory reading Group](https://www.agq-cdt.org/training/cohort-reading-groups/geometric-invariant-theory/)
 
 ### Other talks
 
