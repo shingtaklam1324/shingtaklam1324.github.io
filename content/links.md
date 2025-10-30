@@ -9,6 +9,7 @@ Some links which are useful for me, but hopefully they might be helpful to other
 * [Algebraic Geometry](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/algebraicgeometry)
 * [Analysis](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/analysis/)
 * [Junior Algebraic Geometry](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/jaws/)
+* [Junior Analysis and Probability](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/)
 
 ## Glasgow seminars
 
