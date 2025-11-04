@@ -21,6 +21,7 @@ Some links which are useful for me, but hopefully they might be helpful to other
 ## Conferences
 
 * [GeCo GeDi](https://gecogedi.dimai.unifi.it/)
+* [CVGMT](https://cvgmt.sns.it/)
 * [Ravi Vakil's list](https://math.stanford.edu/~vakil/conferences.html)
 
 ## Arxiv recent papers
