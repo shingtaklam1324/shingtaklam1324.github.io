@@ -59,12 +59,12 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "about"
-url = "/about"
-
-[[params.menu]]
 name = "writing"
 url = "/writing"
+
+[[params.menu]]
+name = "about"
+url = "/about"
 
 # [[params.menu]]
 # name = "courses"

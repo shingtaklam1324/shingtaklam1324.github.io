@@ -5,7 +5,7 @@ math = true
 
 ## Preprints
 
-1. _Canonical metrics on families of vector bundles_[^1], 2025. To appear.
+1. _Canonical metrics on families of vector bundles_, [arxiv:2512.04017](https://arxiv.org/abs/2512.04017).
 
 ## Others
 
@@ -24,5 +24,3 @@ For any of these which are not linked, feel free to contact me if you would like
 ### Miscellany
 
 1. [Kuranishi theory](../kuranishi-theory.pdf) -- Most references on Kuranishi theory are for (constant scalar curvature Kähler) manifolds. The same methods work for (Hermite--Einstein) vector bundles. I've written down enough of the details to convince myself that it works.
-
-[^1]: Contact me if you would like to see a draft. Hopefully it should be public fairly soon.

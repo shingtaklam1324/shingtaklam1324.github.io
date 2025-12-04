@@ -3,8 +3,7 @@ title="Travels"
 +++
 
 1. [Degenerations in Complex Geometry](https://www.mittag-leffler.se/activities/degenerations-in-complex-geometry/), Institut Mittag-Leffler, June 29-July 3 2026 
-1. TBC - [Integrable Day](https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/integrableday2025/), Loughborough, November 28 2025
-1. TBC - [CALF](https://calfseminar.weebly.com/), Warwick, November 28 2025
+1. [Integrable Day](https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/integrableday2025/), Loughborough, November 28 2025
 1. [COW](https://cow.alggeo.xyz/), Warwick, November 27 2025
 1. [VII BrAG Meeting](https://sites.google.com/site/bragmeeting/7th-brag-meeting), Nottingham, September 10-12 2025
 1. [Workshop on Singular canonical Kähler metrics on compact and non-compact manifolds](https://erdoscenter.renyi.hu/events/workshop-singular-canonical-kahler-metrics-compact-and-non-compact-manifolds), Budapest, September 1-5 2025
