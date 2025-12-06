@@ -17,6 +17,6 @@ title="Travels"
 
 Local:
 
-1. [Glasgow Edinburgh Algebra Research Student (GEARS) seminar](https://sites.google.com/view/gears-seminar/home)
+While I was in Glasgow, I attended the [Glasgow Edinburgh Algebra Research Student (GEARS) seminar](https://sites.google.com/view/gears-seminar/home). I can (very) occasionally be found at nearby seminars, for example the [London Geometry and Topology seminar](http://coates.ma.ic.ac.uk/seminar/), or the Oxford [Geometry and Analysis](https://www.maths.ox.ac.uk/events/past/641) or [Algebraic and Symplectic Geometry](https://www.maths.ox.ac.uk/events/list/624) semianrs.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1siwWdOTbdPCxxXPQGF1pHD1o9E7rhFE&ehbc=2E312F" width="640" height="480"></iframe>
