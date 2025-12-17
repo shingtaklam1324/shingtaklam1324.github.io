@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Shing Tak Lam</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kähler geometry and canonical metrics</title>
-      <link>http://localhost:1313/posts/canonical_metrics/</link>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/canonical_metrics/</guid>
-      <description>&lt;p&gt;In this post, I&amp;rsquo;ll discuss a bit about what is Kähler geometry, what kind of questions show up, and why these results should be true.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kähler-manifolds&#34;&gt;Kähler manifolds&lt;/h2&gt;&#xA;&lt;p&gt;A Kähler manifold is a tuple $(M, J, g, \omega)$, where&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$M$ is a smooth manifold,&lt;/li&gt;&#xA;&lt;li&gt;$J$ is an integrable almost complex structure, i.e. $(M, J)$ is a complex manifold,&lt;/li&gt;&#xA;&lt;li&gt;$g$ is a Riemannian metric,&lt;/li&gt;&#xA;&lt;li&gt;$\omega$ is a symplectic form,&#xA;satisfying the compatibility condition&#xA;$$\omega(u, v) = g(u, Jv) \quad\quad g(Ju, Jv) = g(u, v).$$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;From this, we can see that Kähler geometry lies in the intersection between complex (or often algebraic) geometry, Riemannian geometry and symplectic geometry, and techniques from all three subject areas show up in the study of Kähler manifolds.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Schemes from varieties</title>
       <link>http://localhost:1313/posts/schemes_from_varieties/</link>
