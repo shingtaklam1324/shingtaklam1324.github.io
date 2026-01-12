@@ -9,10 +9,11 @@ A list of talks which I have given (in reverse chronological order within each c
 
 1. Canonical metrics on families of vector bundles - [Fibrations and Deformations](https://delcroix.perso.math.cnrs.fr/MARGE3/)
 
-### Seminar talks
+### Junior seminar talks
 
+1. TBC - [Warwick Junior Analysis and Probability Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/)
 1. Symplectic geometry and moment maps - [Warwick Postgraduate Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/postgraduate/25/#lam)
-1. Canonical metrics on families of vector bundles - Warwick Junior Algebraic Geometry Seminar
+1. Canonical metrics on families of vector bundles - [Warwick Junior Algebraic Geometry Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/jaws/2025-2026/)
 
 ### Reading group talks
 
