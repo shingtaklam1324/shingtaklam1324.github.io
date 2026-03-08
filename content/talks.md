@@ -12,6 +12,7 @@ A list of talks which I have given (in reverse chronological order within each c
 ### Junior seminar talks
 
 1. TBC - [Warwick Junior Analysis and Probability Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/)
+1. TBC - [Edinburgh Hodge Club](https://hodge.maths.ed.ac.uk/?page_id=38)
 1. Symplectic geometry and moment maps - [Warwick Postgraduate Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/postgraduate/25/#lam)
 1. Canonical metrics on families of vector bundles - [Warwick Junior Algebraic Geometry Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/jaws/2025-2026/)
 
