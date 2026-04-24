@@ -2,7 +2,11 @@
 title="Travels"
 +++
 
+Conferences which I have attended. See also the [talks](/talks) page.
+
 1. [Degenerations in Complex Geometry](https://www.mittag-leffler.se/activities/degenerations-in-complex-geometry/), Institut Mittag-Leffler, June 29-July 3 2026 
+1. [Complex Geometry in Bordeaux](https://cgbordeaux.sciencesconf.org/), Bordeaux, May 26-29 2026
+1. [CALF](https://calfseminar.weebly.com/), Imperial College London, March 20 2026
 1. [Brussels-London Geometry Seminar](https://geometry.ulb.ac.be/brussels-london/), Brussels, January 30 2026
 1. [Integrable Day](https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/integrableday2025/), Loughborough, November 28 2025
 1. [COW](https://cow.alggeo.xyz/), Warwick, November 27 2025
@@ -18,6 +22,6 @@ title="Travels"
 
 Local:
 
-While I was in Glasgow, I attended the [Glasgow Edinburgh Algebra Research Student (GEARS) seminar](https://sites.google.com/view/gears-seminar/home). I can (very) occasionally be found at nearby seminars, for example the [London Geometry and Topology seminar](http://coates.ma.ic.ac.uk/seminar/), or the Oxford [Geometry and Analysis](https://www.maths.ox.ac.uk/events/past/641) or [Algebraic and Symplectic Geometry](https://www.maths.ox.ac.uk/events/list/624) semianrs.
+While I was in Glasgow, I attended the [Glasgow Edinburgh Algebra Research Student (GEARS) seminar](https://sites.google.com/view/gears-seminar/home). I can (very) occasionally be found at nearby seminars, for example the [London Geometry and Topology seminar](http://coates.ma.ic.ac.uk/seminar/), or the Oxford [Geometry and Analysis](https://www.maths.ox.ac.uk/events/list/641) or [Algebraic and Symplectic Geometry](https://www.maths.ox.ac.uk/events/list/624) semianrs.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1siwWdOTbdPCxxXPQGF1pHD1o9E7rhFE&ehbc=2E312F" width="640" height="480"></iframe>
