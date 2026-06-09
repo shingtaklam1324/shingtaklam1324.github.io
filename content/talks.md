@@ -11,14 +11,15 @@ A list of talks which I have given (in reverse chronological order within each c
 
 ### Junior seminar talks
 
-1. TBC - [Warwick Junior Analysis and Probability Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/)
+1. Semistability and asymptotics of geometric flows - [Warwick Junior Analysis and Probability Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/)
 1. Groups acting on symplectic manifolds and moduli - [Edinburgh Hodge Club](https://hodge.maths.ed.ac.uk/?page_id=38)
 1. Symplectic geometry and moment maps - [Warwick Postgraduate Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/postgraduate/25/#lam)
 1. Canonical metrics on families of vector bundles - [Warwick Junior Algebraic Geometry Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/jaws/2025-2026/)
 
 ### Reading group talks
 
-1. Compactness, Wall crossing, Connect sum and Blowing up - [AGQ Gauge theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/gauge-theoretic-invariants/)
+1. $\Theta$-stratifications - Reading group on [K-stability of Fano varieties](https://web.math.princeton.edu/~chenyang/Kstabilitybook.pdf)
+1. Compactness, wall crossing, connect sum and Blowing up - [AGQ Gauge theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/gauge-theoretic-invariants/)
 1. Stable toric varieties - Reading group on [Moduli of Weighted Hyperplane Arrangements](https://link.springer.com/book/10.1007/978-3-0348-0915-3)
 1. Introduction to Gauge theory and Seiberg-Witten theory - [AGQ Gauge theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/gauge-theoretic-invariants/)
 1. The $\alpha$ and $\delta$-invariants - K-stability reading group (Sections 6.1-6.3.1 of [Blum's notes](https://www.math.utah.edu/~blum/KstabilityNotes.pdf))

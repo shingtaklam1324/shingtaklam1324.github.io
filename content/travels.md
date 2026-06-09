@@ -5,7 +5,9 @@ title="Travels"
 Conferences which I have attended. See also the [talks](/talks) page.
 
 1. [Degenerations in Complex Geometry](https://www.mittag-leffler.se/activities/degenerations-in-complex-geometry/), Institut Mittag-Leffler, June 29-July 3 2026 
+1. [CALF](https://calfseminar.weebly.com/), Nottingham, June 9 2026
 1. [Complex Geometry in Bordeaux](https://cgbordeaux.sciencesconf.org/), Bordeaux, May 26-29 2026
+1. [Living on the edge of the moduli space](https://projects.au.dk/cmcg/workshop-on-limits-of-canonical-metrics), Aarhus, May 19-22 2026
 1. [CALF](https://calfseminar.weebly.com/), Imperial College London, March 20 2026
 1. [Brussels-London Geometry Seminar](https://geometry.ulb.ac.be/brussels-london/), Brussels, January 30 2026
 1. [Integrable Day](https://www.lboro.ac.uk/departments/maths/events/conferences-and-workshops/integrableday2025/), Loughborough, November 28 2025

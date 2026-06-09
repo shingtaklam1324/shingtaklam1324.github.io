@@ -5,7 +5,8 @@ math = true
 
 ## Preprints
 
-1. _Canonical metrics on families of vector bundles_, [arxiv:2512.04017](https://arxiv.org/abs/2512.04017).
+1. _Semistability and asymptotics of geometric flows_, [arXiv:2606.09235](https://arxiv.org/abs/2606.09235)
+1. _Canonical metrics on families of vector bundles_, [arXiv:2512.04017](https://arxiv.org/abs/2512.04017).
 
 ## Others
 
