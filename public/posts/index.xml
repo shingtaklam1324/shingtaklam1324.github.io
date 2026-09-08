@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Shing Tak Lam</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Shing Tak Lam</description>
-    <generator>Hugo</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Haiden-Katzarkov-Kontsevich-Pandit</title>
-      <link>http://localhost:1313/posts/hkkp/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hkkp/</guid>
-      <description>&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.01073&#34;&gt;Semistability, modular lattices, and iterated logarithms&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1802.04123&#34;&gt;Iterated logarithms and gradient flows&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Katzarkov, Towards a categorical Donaldson-Uhlenbeck-Yau correspondence, November 2015, &lt;a href=&#34;https://people.math.harvard.edu/~auroux/schms2015-2020/Penn2015/L.%20Katzarkov%20-%20Applications%20of%20HMS%20(revised).pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=hYLMOa9lrno&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kontsevich, Kahler stability, November 2015, &lt;a href=&#34;https://people.math.harvard.edu/~auroux/schms2015-2020/Penn2015/M.%20Kontsevich%20-%20Kahler%20stability.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=I-w46hylWhc&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Categorical Kahler geometry, Jan 2017, &lt;a href=&#34;https://www.youtube.com/watch?v=wP5XPNrP6C4&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Haiden, Refined Harder-Narasimhan filtrations in modular lattices and iterated logarithms, Jan 2017, &lt;a href=&#34;https://people.math.harvard.edu/~auroux/schms2015-2020/Miami2017/F.%20Haiden%20-%2028-01-17%20-%20Refined%20Harder-Narasimhan%20filtrations%20in%20modular%20lattices%20and%20iterated%20logarithms.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=qFu0IaX6IK0&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Haiden, Categorical Kahler Geometry, Jan 2017 &lt;a href=&#34;https://www.youtube.com/watch?v=U6L8cZFIHto&#34;&gt;video 1&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=GWOmy2Donsw&#34;&gt;video 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Haiden, Semistability and iterated logarithms, Dec 15 2017, &lt;a href=&#34;https://www.mathnet.ru/php/presentation.phtml?presentid=19005&amp;amp;option_lang=eng&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, From homotopical mathematics to emergent geometry, Jan 24 2018, &lt;a href=&#34;https://www.icts.res.in/sites/default/files/Pranav%20Pandit_0.pdf&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Categorical Kahler geometry, June 2018, &lt;a href=&#34;https://sites.duke.edu/scshgap/files/2018/05/Pandit-Imperial.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://sites.duke.edu/scshgap/pranav-pandit-lectures/&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Gradient flows, iterated logarithms and semistability, June 2018, &lt;a href=&#34;https://sites.duke.edu/scshgap/files/2018/05/Pandit-Imperial-2.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://sites.duke.edu/scshgap/pranav-pandit-lectures/&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Towards a categorigal Donaldson-Uhlenbeck-Yau correspondence, July 2018, &lt;a href=&#34;https://www.youtube.com/watch?v=cSebf5Bmqxc&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Categorical Kahler geometry, April 2022, &lt;a href=&#34;https://vimeo.com/showcase/9475375?video=703052622&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Schemes from varieties</title>
-      <link>http://localhost:1313/posts/schemes_from_varieties/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/schemes_from_varieties/</guid>
-      <description>&lt;p&gt;In scheme-theoretic algebraic geometry, we can define a variety as an reduced&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; separated scheme which is finite type over a field $k$. In this post, we&amp;rsquo;ll start off with the notions of affine and projective varieties from classical algebraic geometry, and then generalise these incrementally, to end up at the definition of a scheme.&lt;/p&gt;&#xA;&lt;p&gt;First of all, recall that we have a bijection between affine varieties and finitely generated reduced $k$ algebras, given by sending an affine variety $X$ to it&amp;rsquo;s ring of regular functions $k[X]$. If $X$ is given by the ideal $I \trianglelefteq k[x_1, \dots, x_n]$, then $k[X] = k[x_1, \dots, x_n]/\sqrt{I}$. The fact that we take the radical of $I$ means that the coordinate ring is reduced, i.e. it has no non-zero nilpotents. However, we lose geometric information from doing this.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Functor of points</title>
-      <link>http://localhost:1313/posts/functor_of_points/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/functor_of_points/</guid>
-      <description>&lt;p&gt;One idea which has been coming up a lot in the &lt;a href=&#34;https://smstc.ac.uk/&#34;&gt;SMSTC&lt;/a&gt; course on Algebraic Geometry, lectured by Clark Barwick, has been the idea of the functor of points. Here, we&amp;rsquo;ll try and motivate that definition with some examples.&lt;/p&gt;&#xA;&lt;p&gt;Throughout, we work over an algebraically field $k$, and so schemes and morphisms are relative to $k$.&lt;/p&gt;&#xA;&lt;p&gt;Let $X$ be a scheme. Associated to this, we have a functor $h_X : \mathrm{Sch}/k^{\mathrm{op}} \to \mathrm{Sets}$, given by&#xA;$$h_X(Y) = \mathrm{Mor}(Y, X)$$&#xA;and this is called the &lt;em&gt;functor of points&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Posts on Shing Tak Lam</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Shing Tak Lam</description>
+		<generator>Hugo</generator>
+		<language>en-gb</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Haiden-Katzarkov-Kontsevich-Pandit</title>
+				<link>http://localhost:1313/posts/hkkp/</link>
+				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/hkkp/</guid>
+				<description>&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.01073&#34;&gt;Semistability, modular lattices, and iterated logarithms&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1802.04123&#34;&gt;Iterated logarithms and gradient flows&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Katzarkov, Towards a categorical Donaldson-Uhlenbeck-Yau correspondence, November 2015, &lt;a href=&#34;https://people.math.harvard.edu/~auroux/schms2015-2020/Penn2015/L.%20Katzarkov%20-%20Applications%20of%20HMS%20(revised).pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=hYLMOa9lrno&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kontsevich, Kahler stability, November 2015, &lt;a href=&#34;https://people.math.harvard.edu/~auroux/schms2015-2020/Penn2015/M.%20Kontsevich%20-%20Kahler%20stability.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=I-w46hylWhc&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Categorical Kahler geometry, Jan 2017, &lt;a href=&#34;https://www.youtube.com/watch?v=wP5XPNrP6C4&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Haiden, Refined Harder-Narasimhan filtrations in modular lattices and iterated logarithms, Jan 2017, &lt;a href=&#34;https://people.math.harvard.edu/~auroux/schms2015-2020/Miami2017/F.%20Haiden%20-%2028-01-17%20-%20Refined%20Harder-Narasimhan%20filtrations%20in%20modular%20lattices%20and%20iterated%20logarithms.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=qFu0IaX6IK0&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Haiden, Categorical Kahler Geometry, Jan 2017 &lt;a href=&#34;https://www.youtube.com/watch?v=U6L8cZFIHto&#34;&gt;video 1&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=GWOmy2Donsw&#34;&gt;video 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Haiden, Semistability and iterated logarithms, Dec 15 2017, &lt;a href=&#34;https://www.mathnet.ru/php/presentation.phtml?presentid=19005&amp;amp;option_lang=eng&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, From homotopical mathematics to emergent geometry, Jan 24 2018, &lt;a href=&#34;https://www.icts.res.in/sites/default/files/Pranav%20Pandit_0.pdf&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Categorical Kahler geometry, June 2018, &lt;a href=&#34;https://sites.duke.edu/scshgap/files/2018/05/Pandit-Imperial.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://sites.duke.edu/scshgap/pranav-pandit-lectures/&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Gradient flows, iterated logarithms and semistability, June 2018, &lt;a href=&#34;https://sites.duke.edu/scshgap/files/2018/05/Pandit-Imperial-2.pdf&#34;&gt;slides&lt;/a&gt;, &lt;a href=&#34;https://sites.duke.edu/scshgap/pranav-pandit-lectures/&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Towards a categorigal Donaldson-Uhlenbeck-Yau correspondence, July 2018, &lt;a href=&#34;https://www.youtube.com/watch?v=cSebf5Bmqxc&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Pandit, Categorical Kahler geometry, April 2022, &lt;a href=&#34;https://vimeo.com/showcase/9475375?video=703052622&#34;&gt;video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Kähler geometry and canonical metrics</title>
+				<link>http://localhost:1313/posts/canonical_metrics/</link>
+				<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/canonical_metrics/</guid>
+				<description>&lt;p&gt;In this post, I&amp;rsquo;ll discuss a bit about what is Kähler geometry, what kind of questions show up, and why these results should be true.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kähler-manifolds&#34;&gt;Kähler manifolds&lt;/h2&gt;&#xA;&lt;p&gt;A Kähler manifold is a tuple $(M, J, g, \omega)$, where&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$M$ is a smooth manifold,&lt;/li&gt;&#xA;&lt;li&gt;$J$ is an integrable almost complex structure, i.e. $(M, J)$ is a complex manifold,&lt;/li&gt;&#xA;&lt;li&gt;$g$ is a Riemannian metric,&lt;/li&gt;&#xA;&lt;li&gt;$\omega$ is a symplectic form,&#xA;satisfying the compatibility condition&#xA;$$\omega(u, v) = g(u, Jv) \quad\quad g(Ju, Jv) = g(u, v).$$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;From this, we can see that Kähler geometry lies in the intersection between complex (or often algebraic) geometry, Riemannian geometry and symplectic geometry, and techniques from all three subject areas show up in the study of Kähler manifolds.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Schemes from varieties</title>
+				<link>http://localhost:1313/posts/schemes_from_varieties/</link>
+				<pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/schemes_from_varieties/</guid>
+				<description>&lt;p&gt;In scheme-theoretic algebraic geometry, we can define a variety as an reduced&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; separated scheme which is finite type over a field $k$. In this post, we&amp;rsquo;ll start off with the notions of affine and projective varieties from classical algebraic geometry, and then generalise these incrementally, to end up at the definition of a scheme.&lt;/p&gt;&#xA;&lt;p&gt;First of all, recall that we have a bijection between affine varieties and finitely generated reduced $k$ algebras, given by sending an affine variety $X$ to it&amp;rsquo;s ring of regular functions $k[X]$. If $X$ is given by the ideal $I \trianglelefteq k[x_1, \dots, x_n]$, then $k[X] = k[x_1, \dots, x_n]/\sqrt{I}$. The fact that we take the radical of $I$ means that the coordinate ring is reduced, i.e. it has no non-zero nilpotents. However, we lose geometric information from doing this.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Functor of points</title>
+				<link>http://localhost:1313/posts/functor_of_points/</link>
+				<pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/functor_of_points/</guid>
+				<description>&lt;p&gt;One idea which has been coming up a lot in the &lt;a href=&#34;https://smstc.ac.uk/&#34;&gt;SMSTC&lt;/a&gt; course on Algebraic Geometry, lectured by Clark Barwick, has been the idea of the functor of points. Here, we&amp;rsquo;ll try and motivate that definition with some examples.&lt;/p&gt;&#xA;&lt;p&gt;Throughout, we work over an algebraically field $k$, and so schemes and morphisms are relative to $k$.&lt;/p&gt;&#xA;&lt;p&gt;Let $X$ be a scheme. Associated to this, we have a functor $h_X : \mathrm{Sch}/k^{\mathrm{op}} \to \mathrm{Sets}$, given by&#xA;$$h_X(Y) = \mathrm{Mor}(Y, X)$$&#xA;and this is called the &lt;em&gt;functor of points&lt;/em&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

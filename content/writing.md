@@ -5,7 +5,7 @@ math = true
 
 ## Preprints
 
-1. _Semistability and asymptotics of geometric flows_, [arXiv:2606.09235](https://arxiv.org/abs/2606.09235)
+1. _Semistability and asymptotics of geometric flows_, [arXiv:2606.09235](https://arxiv.org/abs/2606.09235)[^1]
 1. _Canonical metrics on families of vector bundles_, [arXiv:2512.04017](https://arxiv.org/abs/2512.04017).
 
 ## Others
@@ -25,3 +25,5 @@ For any of these which are not linked, feel free to contact me if you would like
 ### Miscellany
 
 1. [Kuranishi theory](../kuranishi-theory.pdf) -- Most references on Kuranishi theory are for (constant scalar curvature Kähler) manifolds. The same methods work for (Hermite--Einstein) vector bundles. I've written down enough of the details to convince myself that it works.
+
+[^1]: The reference [HKKP] has since appeared -- [arXiv:2609.00978](https://arxiv.org/abs/2609.00978).

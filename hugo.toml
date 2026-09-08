@@ -22,6 +22,8 @@ hideHeader = false
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a PhD student at the University of Warwick, supervised by [Ruadhaí Dervan](https://www.maths.gla.ac.uk/~rdervan/). My research interests are in complex geometry.
+
+I am a co-organiser of [Warwick Junior Algebraic Geometry](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/jaws/) (with Chunkai and Yaoqi) and of [CALF](https://calfseminar.weebly.com/) (with Sasha and Yijue). Please get in touch if you are interested in giving a talk at either.
 """
 
 # # Collection to display on home
@@ -62,10 +64,6 @@ url = "/"
 name = "writing"
 url = "/writing"
 
-[[params.menu]]
-name = "about"
-url = "/about"
-
 # [[params.menu]]
 # name = "courses"
 # url = "/courses"
@@ -93,6 +91,10 @@ url = "/teaching"
 [[params.menu]]
 name = "links"
 url = "/links"
+
+[[params.menu]]
+name = "about"
+url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
