@@ -9,6 +9,13 @@ A list of talks which I have given (in reverse chronological order within each c
 
 1. Canonical metrics on families of vector bundles - [Fibrations and Deformations](https://delcroix.perso.math.cnrs.fr/MARGE3/)
 
+### Seminar talks
+
+1. TBC - [York Geometry, Analysis and Mathematical Physics Seminar](https://graemewilkin.github.io/seminar/index.html)
+1. TBC - [Centre for Quantum Mathematics](https://www.sdu.dk/en/forskning/qm) Research Seminar
+1. TBC - Loughbourough Geometry and Mathematical Physics Seminar
+1. TBC - [Purdue Geometry and Geometric Analysis Seminar](https://sites.google.com/view/purdue-gga)
+
 ### Junior seminar talks
 
 1. Semistability and asymptotics of geometric flows - [Warwick Junior Analysis and Probability Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/)
