@@ -4,7 +4,7 @@
 title = 'About'
 +++
 
-I am a second year PhD student at the University of Warwick, supervised by [Ruadhaí Dervan](https://warwick.ac.uk/fac/sci/maths/people/staff/dervan/). I spent the first year of my PhD at Glasgow, where I was an aligned student at the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/).
+I am a third year PhD student at the University of Warwick, supervised by [Ruadhaí Dervan](https://rdervan.warwick.ac.uk/index.html). I spent the first year of my PhD at Glasgow, where I was an aligned student at the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/).
 
 My research interests are in
 * algebraic geometry - geometric invariant theory, stability, moduli
