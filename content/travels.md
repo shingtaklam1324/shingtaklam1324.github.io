@@ -2,8 +2,14 @@
 title="Travels"
 +++
 
-Conferences which I have attended. See also the [talks](/talks) page.
+A partial list of places where I have been/will be. See also the [talks](/talks) page.
 
+1. York, November 24-25 2026
+1. [CALF](https://calfseminar.weebly.com/), Imperial College London, November 20 2026
+1. Odense, November 9-11 2026
+1. Gothenburg, October 26-November 8 2026
+1. [Brussels-London Geometry Seminar](https://geometry.ulb.ac.be/brussels-london/), University College London, October 20 2026
+1. Loughborough, October 7 2026
 1. [CALF](https://calfseminar.weebly.com/), Oxford, September 8 2026
 1. [Trends in Differential and Complex Geometry: a celebration of Nigel Hitchin’s 80th birthday](https://www.claymath.org/events/trends-in-differential-and-complex-geometry-a-celebration-of-nigel-hitchins-80th-birthday-2/), Oxford, August 31-September 4 2026
 1. [Degenerations in Complex Geometry](https://www.mittag-leffler.se/activities/degenerations-in-complex-geometry/), Institut Mittag-Leffler, June 29-July 3 2026 
